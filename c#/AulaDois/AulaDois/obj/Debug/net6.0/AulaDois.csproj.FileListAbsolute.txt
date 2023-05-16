@@ -1,0 +1,15 @@
+D:\Projetos Dev\danki-code\c#\AulaDois\AulaDois\bin\Debug\net6.0\AulaDois.exe
+D:\Projetos Dev\danki-code\c#\AulaDois\AulaDois\bin\Debug\net6.0\AulaDois.deps.json
+D:\Projetos Dev\danki-code\c#\AulaDois\AulaDois\bin\Debug\net6.0\AulaDois.runtimeconfig.json
+D:\Projetos Dev\danki-code\c#\AulaDois\AulaDois\bin\Debug\net6.0\AulaDois.dll
+D:\Projetos Dev\danki-code\c#\AulaDois\AulaDois\bin\Debug\net6.0\AulaDois.pdb
+D:\Projetos Dev\danki-code\c#\AulaDois\AulaDois\obj\Debug\net6.0\AulaDois.csproj.AssemblyReference.cache
+D:\Projetos Dev\danki-code\c#\AulaDois\AulaDois\obj\Debug\net6.0\AulaDois.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos Dev\danki-code\c#\AulaDois\AulaDois\obj\Debug\net6.0\AulaDois.AssemblyInfoInputs.cache
+D:\Projetos Dev\danki-code\c#\AulaDois\AulaDois\obj\Debug\net6.0\AulaDois.AssemblyInfo.cs
+D:\Projetos Dev\danki-code\c#\AulaDois\AulaDois\obj\Debug\net6.0\AulaDois.csproj.CoreCompileInputs.cache
+D:\Projetos Dev\danki-code\c#\AulaDois\AulaDois\obj\Debug\net6.0\AulaDois.dll
+D:\Projetos Dev\danki-code\c#\AulaDois\AulaDois\obj\Debug\net6.0\refint\AulaDois.dll
+D:\Projetos Dev\danki-code\c#\AulaDois\AulaDois\obj\Debug\net6.0\AulaDois.pdb
+D:\Projetos Dev\danki-code\c#\AulaDois\AulaDois\obj\Debug\net6.0\AulaDois.genruntimeconfig.cache
+D:\Projetos Dev\danki-code\c#\AulaDois\AulaDois\obj\Debug\net6.0\ref\AulaDois.dll
